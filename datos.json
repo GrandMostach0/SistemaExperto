@@ -4,10 +4,262 @@
             "op_1": 1,
             "op_2": 1,
             "op_3": 1,
+            "op_4": 3,
+            "res": "Le recomendamos visitar el Puerto de Progreso \nubicado en el estado de Yucat\u00e1n, ideal para \npasarla bien con amigos, paraje o familia.\r\n",
+            "exp": "El puerto de progreso es un lugar tur\u00edstico muy \nconocido para pasar el d\u00eda agradablemente con \nlas brisas del mar, ideal en verano \u00e9poca donde \nhace demasiado calor\n",
+            "img": "progreso0.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 1,
+            "op_3": 1,
+            "op_4": 2,
+            "res": "Le recomendamos visitar Coahuila en m\u00e9xico, Un estado norte\u00f1o con varios atractivos naturales\n",
+            "exp": "Es una gran opci\u00f3n para una escapada de oto\u00f1o. Puedes aprovechar para hacer un viaje en carretera por el estado y conocer sus Pueblos M\u00e1gicos, cada uno con su encanto particular. Si te interesa adentrarte en el mundo del vino, Parras de la Fuente tiene que estar en tu itinerario.\n\n",
+            "img": "Coahuila.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 1,
+            "op_3": 1,
             "op_4": 1,
-            "res": "Bulbasor\n",
-            "exp": "No se\n",
-            "img": "progreso1.png"
+            "res": "Le recomendamos visitar aguascalientes m\u00e9xico ideal para conocer sus alrededores y tradiciones culturales\n",
+            "exp": "En octubre podr\u00e1s disfrutar del d\u00eda de los muertos, dar un paseo por el centro y dedicar unos d\u00edas a conocer los alrededores. Seguro te encantar\u00e1 Real de Asientos, cuyos edificios de cantera rosa y su origen minero le dan un toque \u00fanico. Y si te gusta el turismo de naturaleza, esc\u00e1pate a Boca del T\u00fanel, un sistema de ca\u00f1ones donde puedes relajarte en una caba\u00f1a o lanzarse en tirolesa.\n",
+            "img": "aguascalientes.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 1,
+            "op_3": 1,
+            "op_4": 3,
+            "res": "Le recomendamos visitar la playa de canc\u00fan ubicado en Quintana Roo, ideal para toda la familia o amigos\n",
+            "exp": "La ciudad de Canc\u00fan es un lugar tur\u00edstico muy popular con muchas actividades para realizar y hoteles para hospedarse y disfrutar de unas vacaciones inolvidables.\n",
+            "img": "cancun.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 1,
+            "op_3": 2,
+            "op_4": 2,
+            "res": "Le recomendamos visitar la ciudad de los \u00e1ngeles en california, perfecta para visitar en cualquier temporada.\n",
+            "exp": "En oto\u00f1o tiene un encanto especial. Da un paseo por Hollywood, divi\u00e9rtete como nunca en Disneyland y marav\u00edllate con el atardecer en las playas de Santa M\u00f3nica.\n",
+            "img": "cancun.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 2,
+            "op_4": 3,
+            "res": "Le recomendamos visita Playa del Carmen.\n",
+            "exp": "Playa del Carmen fue alguna vez un tranquilo pueblo de pescadores en el coraz\u00f3n de la Riviera Maya de M\u00e9xico. Ahora es un famoso destino tur\u00edstico que atrae principalmente a turistas de toda Europa. La cantidad de personas puede haber crecido, sin embargo, la atm\u00f3sfera sigue siendo relajante y relajada.\n\n",
+            "img": "cancun.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 2,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos visitar el acuario de Veracruz\n",
+            "exp": " Es considerado uno de los m\u00e1s grandes en Am\u00e9rica Latina y ofrece diversas actividades.\nPosee 8 salas de exhibici\u00f3n donde ver\u00e1s peces de agua dulce, agua salada, medusas, tiburones, manat\u00edes y los famosos ping\u00fcinos, as\u00ed como disfrutar de la vista panor\u00e1mica en la pecera arrecifal. Sol\u00eda haber delfines, pero decidieron dejarlos en libertad.\n\n",
+            "img": "Acuario-de-veracruz.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 3,
+            "res": "Le recomendamos Cancuncito\n",
+            "exp": "Famosa y muy visitada tanto por turistas como por lugare\u00f1os, Cancuncito es sin duda uno de los mejores lugares tur\u00edsticos de Veracruz. Este lugar lo conoces al tomar el recorrido a la isla de sacrificios.\n\n",
+            "img": "Cancuncito.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos visitar San Ju\u00e1n de \u00dalua.\n",
+            "exp": "El sitio hist\u00f3rico m\u00e1s conocido de Veracruz debido a la cantidad de historias y leyendas que posee el lugar. Su origen comienza en 1518 cuando llega por primera vez a estas costas el espa\u00f1ol Juan Grijalva, quien nombra a este islote como San Juan de Ul\u00faa\n",
+            "img": "sanJuanDeUlua.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 2,
+            "op_4": 4,
+            "res": "Le recomendamos visitar el Z\u00f3calo de Veracruz.\n",
+            "exp": "Justo a un lado del malec\u00f3n, pasando por la plaza de la Rep\u00fablica, podr\u00e1s encontrar el z\u00f3calo del puerto, uno de los lugares tur\u00edsticos de Veracruz de mayor tradici\u00f3n debido a la alta congregaci\u00f3n de gente.\nEs en este sitio donde se ubican los famosos portales de Veracruz, donde el ambiente y la m\u00fasica no paran de sonar desde la tarde hasta la noche. Los fines de semana son los mejores d\u00edas para visitar el lugar o por las tarde-noche para ver el danz\u00f3n.\n\n",
+            "img": "zocalo de veracruz.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 3,
+            "res": "Le recomendamos Parque Acu\u00e1tico Inbursa.\n",
+            "exp": "Una de las atracciones tur\u00edsticas m\u00e1s novedosas en Veracruz, que atrae tanto a peque\u00f1os, j\u00f3venes y uno que otro adulto intr\u00e9pido, que gusten de aventarse por toboganes a gran velocidad y disfrutar de la divertida alberca de olas\n",
+            "img": "Aquatico-Inbursa-en-Veracruz.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos el Museo de Cera y Ripley.\n",
+            "exp": "Ubicado dentro de la plaza acuario, es una de las paradas obligadas cuando estas de visita por el acuario, ya que no s\u00f3lo podr\u00e1s conocer figuras de cera de tus personajes favoritos, sino tambi\u00e9n de conocer objetos \u00fanicos y curiosos.\nDentro del museo de cera tendr\u00e1s la oportunidad de ver artistas y personajes importantes e incluso hist\u00f3ricos, como la Malinche y Hern\u00e1n Cort\u00e9s, mientras que en el museo de Ripley podr\u00e1s ver objetos fuera de lo com\u00fan, como momias y cabezas reducidas.\n\n",
+            "img": "museo-de-cera-y-ripley.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 2,
+            "op_4": 3,
+            "res": "Le recomendamos visitar la playa de Tuxpan.\n",
+            "exp": "Debido a la creaci\u00f3n de la autopista M\u00e9xico-Tuxpan, las playas de Tuxpan se han convertido en uno de los lugares tur\u00edsticos de Veracruz con mayor demanda por el turismo del centro del pa\u00eds.\nTuxpan cuenta con m\u00e1s de 40 Km de playa y una de las islas m\u00e1s bellas del estado, conocida como Isla de Lobos, otra joya del mar veracruzano, por lo que la relajaci\u00f3n y los mariscos son obligatorios.\n\n",
+            "img": "tuxpan.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos visitar El Taj\u00edn.\n",
+            "exp": "El Taj\u00edn es uno de los lugares tur\u00edsticos de Veracruz de mayor historia, considerado un Patrimonio de la humanidad por sus pir\u00e1mides en excelente estado, su especial arquitectura y por el impacto cultural de la zona.\nLa principal estructura que se encuentra aqu\u00ed es la famosa pir\u00e1mide de los nichos, la cual cuenta con 365 nichos que representan los 365 d\u00edas del a\u00f1o. \n\n",
+            "img": "El-Tajin.png"
+        },
+        {
+            "op_1": 1,
+            "op_2": 3,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos los R\u00e1pidos de Jalcomulco\n",
+            "exp": "Si te gustan cosas m\u00e1s intr\u00e9pidas y no tienes miedo al agua fr\u00eda, los r\u00e1pidos de jalcomulco ser\u00e1n uno de los lugares tur\u00edsticos de Veracruz que debes visitar, excelente tanto para ni\u00f1os como j\u00f3venes y adultos.\nSe realizan 2 tipos de recorridos, un recorrido sencillo para los menos intr\u00e9pidos y otro m\u00e1s caudaloso, por lo que la diversi\u00f3n es una garant\u00eda, adem\u00e1s, el solo hecho de contemplar esos hermosos paisajes valen la pena realizar el descenso.\n\n",
+            "img": "rapidos-de-jalcomulco.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 1,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos El Ca\u00f1\u00f3n del Sumidero\n",
+            "exp": "El Parque Nacional Ca\u00f1\u00f3n del Sumidero es uno de los mejores lugares para conocer en Chiapas, considerado parte de los ca\u00f1ones m\u00e1s importantes del mundo por su riqueza ecol\u00f3gica.\nEl parque abre sus puertas de lunes a domingo de 8 de la ma\u00f1ana a las 4 y media de la tarde. El tramo permitido para recorrer va de Chiapa de Corzo hasta el embalse de la presa Chicoas\u00e9n.\n\n",
+            "img": "canion del sumidero.png"
+        },
+        {
+            "op_1": 3,
+            "op_2": 2,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos visitar Palenque.\n",
+            "exp": "Si realmente no tienes idea sobre qu\u00e9 conocer en Chiapas, la Zona Arqueol\u00f3gica Palenque, por su puesto es el lugar ideal para salir a pasear. Resulta que es un yacimiento arqueol\u00f3gico maya, adem\u00e1s de encontrarse en el centro de una selva tropical.\n",
+            "img": "palenque.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 1,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos visitar El Museo de Arquitectura Maya.\n",
+            "exp": "Ubicado en Campeche, el museo se encuentra en el Baluarte de la Soledad. Ofrece una introducci\u00f3n a los diferentes estilos arquitect\u00f3nicos mayas (Pet\u00e9n Norte, R\u00edo Bec, Chenes y Puuc) mediante la presentaci\u00f3n de piezas (estelas, columnas, esculturas, etc.) procedentes de muchos sitios importantes como Calakmul y Edzna.\n",
+            "img": "museo-maya-campeche.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 2,
+            "op_3": 1,
+            "op_4": 4,
+            "res": "Le recomendamos Edzna.\n",
+            "exp": "Idea para saber sobre como era la tradicion y arquitectura de los mayas y saber que significa sus esculturas\n",
+            "img": "museo-maya-campeche.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 1,
+            "op_3": 2,
+            "op_4": 4,
+            "res": "Le recomendamos Calakmul.\n",
+            "exp": "unto con Tikal y Palenque, Calakmul fue una de las ciudades m\u00e1s grandes e importantes del mundo maya. Ahora es un sitio protegido por la UNESCO y un lugar incre\u00edble para cualquier amante de la arqueolog\u00eda y la historia.\nEl sitio est\u00e1 muy bien conservado, hay muy pocos turistas y las numerosas estructuras est\u00e1n escondidas en el bosque, lo que te hace sentir como un verdadero explorador.\n\n",
+            "img": "calakmul.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 1,
+            "op_3": 2,
+            "op_4": 3,
+            "res": "Le recomendamos visitar Isla Aguada.\n",
+            "exp": "Es un peque\u00f1o pueblo de pescadores situado entre el Golfo de M\u00e9xico y la Laguna de T\u00e9rminos, una zona protegida. Hay playas v\u00edrgenes, ideales para disfrutar del sol y el mar con tranquilidad.\nPero la gente tambi\u00e9n viene a ver a los delfines con un tour en barco. La visita tambi\u00e9n le lleva a El Arenal, una peque\u00f1a isla donde se pueden encontrar varias aves marinas como pel\u00edcanos, garzas, etc.\n\n",
+            "img": "isla-aguada-campeche.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 3,
+            "op_3": 2,
+            "op_4": 3,
+            "res": "Le recomendamos visitar el Centro Ecotur\u00edstico Ich Ha Lol Xaan\n",
+            "exp": "A s\u00f3lo 23 km de la ciudad de Campeche se encuentra Ich Ha Lol Xaan, un centro de ecoturismo gestionado por la comunidad de Hampolol con el objetivo de promover el turismo sostenible y la protecci\u00f3n del medio ambiente.\nAqu\u00ed se pueden realizar diversas actividades, como observar las especies locales (tortugas, peces, iguanas, mapaches), nadar en un cenote, pasear en kayak por su r\u00edo cristalino, explorar la selva caminando por su puente colgante o experimentar la emoci\u00f3n del rappel y la tirolesa\n\n",
+            "img": "ich-ha-lol-xaan.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 1,
+            "op_3": 1,
+            "op_4": 3,
+            "res": "Le recomendamos Las Coloradas\n",
+            "exp": "Una de las cosas que m\u00e1s llama la atenci\u00f3n de muchos es que el agua se ti\u00f1e de un color rosa muy llamativo por la alta concentraci\u00f3n de microorganismos y sal que \u00e9ste tiene. El precioso color que se mira a plena luz del d\u00eda permite sacar bonitas fotos o videos para redes sociales.\n\n",
+            "img": "coloradas.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 3,
+            "op_3": 3,
+            "op_4": 3,
+            "res": "Le recomendamos Cozumel.\n\n",
+            "exp": "Cozumel es un conocido destino de buceo y esn\u00f3rkel, que en la d\u00e9cada de 1960 cobr\u00f3 fama mundial gracias a Jacques Cousteau. El declar\u00f3 que sus arrecifes se encontraban entre los lugares m\u00e1s bellos del mundo para bucear.\n",
+            "img": "cozumel.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 3,
+            "op_3": 3,
+            "op_4": 3,
+            "res": "Le recomendamos visitar Holbox.\n",
+            "exp": "Ubicada en el lugar donde las aguas del Golfo de M\u00e9xico y del mar Caribe se encuentran, esta isla es un peque\u00f1o para\u00edso de sol, playa y naturaleza, un lugar m\u00e1gico en el que parece que el tiempo pasa de una manera distinta.\n",
+            "img": "holbox-pal.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 4,
+            "op_3": 3,
+            "op_4": 3,
+            "res": "Le recomendamos visitar Isla Mujeres.\n",
+            "exp": "es hogar de un santuario de tortugas marinas en la parte central de la \u00ednsula. De mayo a septiembre, estos majestuosos espec\u00edmenes arriban a las costas para depositar sus huevos y los voluntarios cooperan recolect\u00e1ndolos posteriormente para llevarlos a un lugar seguro en la granja y mantenerlos a salvo de sus depredadores\n",
+            "img": "islas mujeres.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 2,
+            "op_3": 3,
+            "op_4": 3,
+            "res": "Le recomendamos Puerto Vallarta.\n",
+            "exp": " Es la segunda zona econ\u00f3mica m\u00e1s importante del estado de Jalisco y el tercer puerto m\u00e1s importante de M\u00e9xico. Actualmente, es uno de los lugares m\u00e1s visitados del pa\u00eds.\n\n",
+            "img": "ptovallarta.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 2,
+            "op_3": 1,
+            "op_4": 2,
+            "res": "Le recomendamos visitar Dzibilchalt\u00fan.\n",
+            "exp": "La zona arqueol\u00f3gica de Dzibilchalt\u00fan se localiza a 12 kil\u00f3metros al norte de la ciudad de M\u00e9rida, Yucat\u00e1n. Tiene una extensi\u00f3n que supera los 19 kil\u00f3metros cuadrados y en ella se conservan restos de diversos asentamientos prehisp\u00e1nicos de \u00e9pocas diferentes.\n\n",
+            "img": "Dzibilchaltun.png"
+        },
+        {
+            "op_1": 2,
+            "op_2": 3,
+            "op_3": 2,
+            "op_4": 3,
+            "res": "Le recomendamos Cenote San Ignacio.\n",
+            "exp": "en el municipio de Chochol\u00e1 encontrar\u00e1s un santuario de naturaleza que alberga hermosos atractivos como el Cenote, el R\u00edo Esmeralda, el restaurante X\u2019tabentun y lindas casitas mayas para hospedarse. \n\n",
+            "img": "cenote san ignacio.png"
         }
     ]
 }
